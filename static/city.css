@@ -1,0 +1,23 @@
+.city_title{
+  border-bottom: 1px solid #e8e8e8;
+  height: 25px;
+  line-height: 25px;
+  padding: 0 15px;
+  font-size: 14px;
+  color: #888;
+  display: block;
+}
+.city_list{
+  overflow: hidden;
+  border-bottom: 1px solid #e8e8e8;
+}
+.city_list li{
+  float: left;
+  display: block;
+  width: 33.333%;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  font-size: 15px;
+  color: #333;
+}
